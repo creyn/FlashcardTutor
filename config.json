@@ -1,0 +1,12 @@
+{
+	"Data": [
+		{
+			"TwitterHandle": "ft_jpnpol_hirag",
+			"CourseDataUrl": "https://raw.githubusercontent.com/creyn/FlashcardTutor/master/courses/jpnpol_hiragana_1.json"
+		},
+		{
+			"TwitterHandle": "ft_jpnpol_katak",
+			"CourseDataUrl": "https://raw.githubusercontent.com/creyn/FlashcardTutor/master/courses/jpnpol_katakana_1.json"
+		}
+	]
+}
